@@ -13,7 +13,7 @@ Secondly, the launch date was analyzed. It was determined that the greatest succ
 
 Thirdly, the duration of the campaign was analyzed. Similar results were obtained to that of the campaign goal size. There are outliers which prevent a concrete reccomendation, but from observing the general trend, a campaign length of 5 to 40 days results in the highest success rate. The image below shows a visual representation of the success rate versus campaign duration. 
 
-
+![](DurationSuccessRate.png)
 
 To obtain the highest change of having a successful Kick-Starter campaign for a Play, the duration of the campaign should be between 5-40 days, the goal should be less than $20,000, and the campaign should be launched in the month of May. 
 
