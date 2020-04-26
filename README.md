@@ -15,5 +15,5 @@ Thirdly, the duration of the campaign was analyzed. Similar results were obtaine
 
 ![](DurationSuccessRate.png)
 
-To obtain the highest change of having a successful Kick-Starter campaign for a Play, the duration of the campaign should be between 5-40 days, the goal should be less than $20,000, and the campaign should be launched in the month of May. 
+To obtain the highest change of having a successful Kick-Starter campaign for a Play, the duration of the campaign should be between 5-40 days, the goal should be less than $20,000, and the campaign should be launched in the month of May. To increase the relative accuracy of this analysis, the data could be further filtered into specific categories allowing us to relate the success of themes to their popularity within the public. 
 
