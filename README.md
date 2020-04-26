@@ -9,7 +9,7 @@ First, the camapaign goal size was analyzed. The results from this weren't consi
 
 Secondly, the launch date was analyzed. It was determined that the greatest success rate was found in the month of May. The image below shows a visual representation of the success rate over the year. 
 
-![](LaunchDateSuccessRate1.png)
+![](LaunchDateSuccessRate_1.png)
 
 Thirdly, the duration of the campaign was analyzed. Similar results were obtained to that of the campaign goal size. There are outliers which prevent a concrete reccomendation, but from observing the general trend, a campaign length of 5 to 40 days results in the highest success rate. The image below shows a visual representation of the success rate versus campaign duration. 
 
